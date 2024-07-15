@@ -1,4 +1,6 @@
-﻿using HR.LeaveManagement.Application.Contracts.Persistence;
+﻿using HR.LeaveManagement.Application.Constants;
+using HR.LeaveManagement.Application.Contracts.Persistence;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -48,6 +50,5 @@ namespace HR.LeaveManagement.Persistence.Repositories
             _dbContext.Entry(entity).State = EntityState.Modified;
         }
 
-        
     }
 }

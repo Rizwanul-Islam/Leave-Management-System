@@ -1,0 +1,267 @@
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.exe
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.deps.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.dev.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\SendGrid.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.AssemblyReference.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfoInputs.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfo.cs
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CoreCompileInputs.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\scopedcss\bundle\HR.LeaveManagement.Api.styles.css
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Manifest.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Pack.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.HR.LeaveManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.HR.LeaveManagement.Api.props
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HR.LeaveManagement.Api.props
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HR.LeaveManagement.Api.props
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.RazorTargetAssemblyInfo.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CopyComplete
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\refint\HR.LeaveManagement.Api.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.genruntimeconfig.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\ref\HR.LeaveManagement.Api.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.exe
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.deps.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.dev.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\SendGrid.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.AssemblyReference.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfoInputs.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfo.cs
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CoreCompileInputs.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\scopedcss\bundle\HR.LeaveManagement.Api.styles.css
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Manifest.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Pack.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.HR.LeaveManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.HR.LeaveManagement.Api.props
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HR.LeaveManagement.Api.props
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HR.LeaveManagement.Api.props
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.RazorTargetAssemblyInfo.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CopyComplete
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\refint\HR.LeaveManagement.Api.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.genruntimeconfig.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Api\obj\Debug\net5.0\ref\HR.LeaveManagement.Api.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\appsettings.json
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.exe
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.deps.json
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.json
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.runtimeconfig.dev.json
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\SendGrid.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Application.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Infrastructure.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Persistence.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Identity.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\bin\Debug\net5.0\HR.LeaveManagement.Domain.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.AssemblyReference.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfoInputs.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.AssemblyInfo.cs
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CoreCompileInputs.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\scopedcss\bundle\HR.LeaveManagement.Api.styles.css
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Manifest.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\HR.LeaveManagement.Api.StaticWebAssets.Pack.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.HR.LeaveManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.HR.LeaveManagement.Api.props
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HR.LeaveManagement.Api.props
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HR.LeaveManagement.Api.props
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.RazorTargetAssemblyInfo.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.csproj.CopyComplete
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\refint\HR.LeaveManagement.Api.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\HR.LeaveManagement.Api.genruntimeconfig.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Api\obj\Debug\net5.0\ref\HR.LeaveManagement.Api.dll

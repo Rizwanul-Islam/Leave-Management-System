@@ -1,0 +1,39 @@
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\Clean Architecture\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\HR.LeaveManagement.CleanArchitecture-dotnet5\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.deps.json
+C:\Work\Leave Management System\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Application\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.dll
+C:\Work\Leave Management System\HR.LeaveManagement.Application\obj\Debug\netstandard2.1\HR.LeaveManagement.Application.pdb
