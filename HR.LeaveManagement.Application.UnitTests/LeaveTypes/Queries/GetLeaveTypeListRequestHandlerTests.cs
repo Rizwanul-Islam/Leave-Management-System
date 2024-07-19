@@ -8,10 +8,7 @@ using HR.LeaveManagement.Application.UnitTests.Mocks;
 using HR.LeaveManagement.Domain;
 using Moq;
 using Shouldly;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Xunit;
@@ -22,28 +19,31 @@ namespace HR.LeaveManagement.Application.UnitTests.LeaveTypes.Queries
     {
         private readonly IMapper _mapper;
         private readonly Mock<ILeaveTypeRepository> _mockRepo;
+
         public GetLeaveTypeListRequestHandlerTests()
         {
             _mockRepo = MockLeaveTypeRepository.GetLeaveTypeRepository();
 
-            var mapperConfig = new MapperConfiguration(c => 
+            var mapperConfig = new MapperConfiguration(cfg =>
             {
-                c.AddProfile<MappingProfile>();
+                cfg.AddProfile<MappingProfile>();
             });
 
             _mapper = mapperConfig.CreateMapper();
         }
 
         [Fact]
-        public async Task GetLeaveTypeListTest()
+        public async Task GetLeaveTypeList_ShouldReturnListOfLeaveTypeDto()
         {
+            // Arrange
             var handler = new GetLeaveTypeListRequestHandler(_mockRepo.Object, _mapper);
 
+            // Act
             var result = await handler.Handle(new GetLeaveTypeListRequest(), CancellationToken.None);
 
+            // Assert
             result.ShouldBeOfType<List<LeaveTypeDto>>();
-
-            result.Count.ShouldBe(3);
+            result.Count.ShouldBe(3); // Ensure it matches the number of items in the mock repository
         }
     }
 }

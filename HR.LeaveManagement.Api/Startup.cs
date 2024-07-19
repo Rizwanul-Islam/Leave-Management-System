@@ -47,6 +47,9 @@ namespace HR.LeaveManagement.Api
                     .AllowAnyMethod()
                     .AllowAnyHeader());
             });
+
+            // Add logging service
+            services.AddLogging();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -58,6 +61,7 @@ namespace HR.LeaveManagement.Api
             }
 
             app.UseMiddleware<ExceptionMiddleware>();
+            app.UseMiddleware<RequestResponseLoggingMiddleware>();
 
             app.UseAuthentication();
 

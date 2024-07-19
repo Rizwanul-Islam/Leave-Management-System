@@ -17,11 +17,13 @@ using HR.LeaveManagement.Application.Contracts.Infrastructure;
 using HR.LeaveManagement.Application.Models;
 using Microsoft.AspNetCore.Http;
 using System.Security.Claims;
-using System.IdentityModel.Tokens.Jwt;
 using HR.LeaveManagement.Application.Constants;
 
 namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Commands
 {
+    /// <summary>
+    /// Handler for creating a leave request.
+    /// </summary>
     public class CreateLeaveRequestCommandHandler : IRequestHandler<CreateLeaveRequestCommand, BaseCommandResponse>
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -35,12 +37,18 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
             IHttpContextAccessor httpContextAccessor,
             IMapper mapper)
         {
-            this._unitOfWork = unitOfWork;
+            _unitOfWork = unitOfWork;
             _emailSender = emailSender;
-            this._httpContextAccessor = httpContextAccessor;
+            _httpContextAccessor = httpContextAccessor;
             _mapper = mapper;
         }
 
+        /// <summary>
+        /// Handles the creation of a leave request.
+        /// </summary>
+        /// <param name="request">The leave request command.</param>
+        /// <param name="cancellationToken">Cancellation token.</param>
+        /// <returns>A task that represents the asynchronous operation, containing the response.</returns>
         public async Task<BaseCommandResponse> Handle(CreateLeaveRequestCommand request, CancellationToken cancellationToken)
         {
             var response = new BaseCommandResponse();
@@ -49,8 +57,9 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
             var userId = _httpContextAccessor.HttpContext.User.Claims.FirstOrDefault(
                     q => q.Type == CustomClaimTypes.Uid)?.Value;
 
+            // Check if the user has sufficient leave allocation
             var allocation = await _unitOfWork.LeaveAllocationRepository.GetUserAllocations(userId, request.LeaveRequestDto.LeaveTypeId);
-            if(allocation is null)
+            if (allocation is null)
             {
                 validationResult.Errors.Add(new FluentValidation.Results.ValidationFailure(nameof(request.LeaveRequestDto.LeaveTypeId),
                     "You do not have any allocations for this leave type."));
@@ -64,7 +73,8 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
                         nameof(request.LeaveRequestDto.EndDate), "You do not have enough days for this request"));
                 }
             }
-            
+
+            // Handle validation errors
             if (validationResult.IsValid == false)
             {
                 response.Success = false;
@@ -73,6 +83,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
             }
             else
             {
+                // Create and save the leave request
                 var leaveRequest = _mapper.Map<LeaveRequest>(request.LeaveRequestDto);
                 leaveRequest.RequestingEmployeeId = userId;
                 leaveRequest = await _unitOfWork.LeaveRequestRepository.Add(leaveRequest);
@@ -82,6 +93,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
                 response.Message = "Request Created Successfully";
                 response.Id = leaveRequest.Id;
 
+                // Send an email confirmation
                 try
                 {
                     var emailAddress = _httpContextAccessor.HttpContext.User.FindFirst(ClaimTypes.Email).Value;
@@ -98,10 +110,10 @@ namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Command
                 }
                 catch (Exception ex)
                 {
-                    //// Log or handle error, but don't throw...
+                    // Handle email sending failure, if necessary
                 }
             }
-            
+
             return response;
         }
     }

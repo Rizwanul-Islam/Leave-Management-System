@@ -1,0 +1,12 @@
+2024-07-19 03:04:50.334 +02:00 [INF] Starting up
+2024-07-19 03:05:12.865 +02:00 [INF] Incoming request: POST /api/Account/login {"email":"riad.rizwanul@gmail.com","password":"Riad676012!2"}
+2024-07-19 03:05:15.289 +02:00 [INF] Response: 200 {"id":"dfe3e2de-bd36-4d1c-857e-8cce22c35ab9","userName":"riad.rizwanul@gmail.com","email":"riad.rizwanul@gmail.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyaWFkLnJpendhbnVsQGdtYWlsLmNvbSIsImp0aSI6IjlkNWU4OWFkLWQzODItNGQ2NS04ZjYxLTQ4MWU3ZGEwMmJjZSIsImVtYWlsIjoicmlhZC5yaXp3YW51bEBnbWFpbC5jb20iLCJ1aWQiOiJkZmUzZTJkZS1iZDM2LTRkMWMtODU3ZS04Y2NlMjJjMzVhYjkiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJFbXBsb3llZSIsImV4cCI6MTcyMTM1NDcxNSwiaXNzIjoiSFJMZWF2ZW1hbmFnZW1lbnQiLCJhdWQiOiJIUkxlYXZlbWFuYWdlbWVudFVzZXIifQ.zF53m554ePSIR4jmyI4wd9p6qxY5OkZhOiYYwBE5UgA"}
+2024-07-19 03:33:10.082 +02:00 [INF] Starting up
+2024-07-19 03:33:30.529 +02:00 [INF] Incoming request: POST /api/Account/login {"email":"riad.rizwanul@gmail.com","password":"Riad676012!2"}
+2024-07-19 03:33:30.913 +02:00 [INF] Received login request with email: riad.rizwanul@gmail.com
+2024-07-19 03:33:33.418 +02:00 [INF] Login response: HR.LeaveManagement.Application.Models.Identity.AuthResponse
+2024-07-19 03:33:33.439 +02:00 [INF] Response: 200 {"id":"dfe3e2de-bd36-4d1c-857e-8cce22c35ab9","userName":"riad.rizwanul@gmail.com","email":"riad.rizwanul@gmail.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJyaWFkLnJpendhbnVsQGdtYWlsLmNvbSIsImp0aSI6ImQwZjhiNWE2LTRmMTEtNDNkMy1iYjAwLTRiYjQ2ZDQxNTMyZiIsImVtYWlsIjoicmlhZC5yaXp3YW51bEBnbWFpbC5jb20iLCJ1aWQiOiJkZmUzZTJkZS1iZDM2LTRkMWMtODU3ZS04Y2NlMjJjMzVhYjkiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJFbXBsb3llZSIsImV4cCI6MTcyMTM1NjQxMywiaXNzIjoiSFJMZWF2ZW1hbmFnZW1lbnQiLCJhdWQiOiJIUkxlYXZlbWFuYWdlbWVudFVzZXIifQ.D29J9SVCdSyfR5BXL9cjXO1r402iQ3QGSOnddbyASc0"}
+2024-07-19 03:33:56.425 +02:00 [INF] Incoming request: GET /api/LeaveTypes 
+2024-07-19 03:33:56.512 +02:00 [INF] Fetching leave types.
+2024-07-19 03:33:56.918 +02:00 [INF] Fetched 2 leave types.
+2024-07-19 03:33:56.922 +02:00 [INF] Response: 200 [{"name":"Vacation","defaultDays":10,"id":1},{"name":"Sick","defaultDays":12,"id":2}]
