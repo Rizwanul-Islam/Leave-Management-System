@@ -19,20 +19,23 @@ namespace HR.LeaveManagement.Identity
 {
     public static class IdentityServicesRegistration
     {
+        // Extension method to configure identity services
         public static IServiceCollection ConfigureIdentityServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.Configure<JwtSettings>(configuration.GetSection("JwtSettings"));
 
-            services.AddDbContext<LeaveManagementIdentityDbContext>(options => 
+            services.AddDbContext<LeaveManagementIdentityDbContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("LeaveManagementIdentityConnectionString"),
                 b => b.MigrationsAssembly(typeof(LeaveManagementIdentityDbContext).Assembly.FullName)));
 
             services.AddIdentity<ApplicationUser, IdentityRole>()
                 .AddEntityFrameworkStores<LeaveManagementIdentityDbContext>().AddDefaultTokenProviders();
 
+            // Register authentication and user services
             services.AddTransient<IAuthService, AuthService>();
             services.AddTransient<IUserService, UserService>();
 
+            // Configure JWT authentication
             services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -40,16 +43,17 @@ namespace HR.LeaveManagement.Identity
             })
                 .AddJwtBearer(o =>
                 {
+                    // Set JWT token validation parameters
                     o.TokenValidationParameters = new TokenValidationParameters
                     {
-                        ValidateIssuerSigningKey = true,
-                        ValidateIssuer = true,
-                        ValidateAudience = true,
-                        ValidateLifetime = true,
-                        ClockSkew = TimeSpan.Zero,
-                        ValidIssuer = configuration["JwtSettings:Issuer"],
-                        ValidAudience = configuration["JwtSettings:Audience"],
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JwtSettings:Key"]))
+                        ValidateIssuerSigningKey = true, 
+                        ValidateIssuer = true,           
+                        ValidateAudience = true,         
+                        ValidateLifetime = true,         
+                        ClockSkew = TimeSpan.Zero,       
+                        ValidIssuer = configuration["JwtSettings:Issuer"],         
+                        ValidAudience = configuration["JwtSettings:Audience"],     
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JwtSettings:Key"])) 
                     };
                 });
 

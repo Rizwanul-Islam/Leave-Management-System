@@ -10,6 +10,9 @@ using System.Text;
 
 namespace HR.LeaveManagement.Application.Profiles
 {
+    /// <summary>
+    /// AutoMapper profile for mapping domain models to DTOs
+    /// </summary>
     public class MappingProfile : Profile
     {
         public MappingProfile()
